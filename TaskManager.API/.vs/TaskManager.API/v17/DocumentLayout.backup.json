@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atene\\source\\repos\\TaskManager.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63AE27B7-9D4F-42C7-B87A-BCF517EAF335}|TaskManager.API.csproj|c:\\users\\atene\\source\\repos\\taskmanager.api\\controllers\\taskcontrollers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AE27B7-9D4F-42C7-B87A-BCF517EAF335}|TaskManager.API.csproj|solutionrelative:controllers\\taskcontrollers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AE27B7-9D4F-42C7-B87A-BCF517EAF335}|TaskManager.API.csproj|c:\\users\\atene\\source\\repos\\taskmanager.api\\models\\standardresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AE27B7-9D4F-42C7-B87A-BCF517EAF335}|TaskManager.API.csproj|solutionrelative:models\\standardresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AAF1C5-2264-4785-B76C-CE634569E3F5}|..\\TaskManager.Domain\\TaskManager.Domain.csproj|c:\\users\\atene\\source\\repos\\taskmanager.domain\\entities\\taskmanager\\taskitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AE27B7-9D4F-42C7-B87A-BCF517EAF335}|TaskManager.API.csproj|c:\\users\\atene\\source\\repos\\taskmanager.api\\models\\tasks\\tasklistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AE27B7-9D4F-42C7-B87A-BCF517EAF335}|TaskManager.API.csproj|solutionrelative:models\\tasks\\tasklistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AE27B7-9D4F-42C7-B87A-BCF517EAF335}|TaskManager.API.csproj|c:\\users\\atene\\source\\repos\\taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AE27B7-9D4F-42C7-B87A-BCF517EAF335}|TaskManager.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AE27B7-9D4F-42C7-B87A-BCF517EAF335}|TaskManager.API.csproj|c:\\users\\atene\\source\\repos\\taskmanager.api\\models\\tasks\\taskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AE27B7-9D4F-42C7-B87A-BCF517EAF335}|TaskManager.API.csproj|solutionrelative:models\\tasks\\taskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AAF1C5-2264-4785-B76C-CE634569E3F5}|..\\TaskManager.Domain\\TaskManager.Domain.csproj|c:\\users\\atene\\source\\repos\\taskmanager.domain\\context\\taskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskListResponse.cs",
+              "DocumentMoniker": "C:\\Users\\atene\\source\\repos\\TaskManager.API\\Models\\Tasks\\TaskListResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Tasks\\TaskListResponse.cs",
+              "ToolTip": "C:\\Users\\atene\\source\\repos\\TaskManager.API\\Models\\Tasks\\TaskListResponse.cs",
+              "RelativeToolTip": "Models\\Tasks\\TaskListResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T01:01:10.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\atene\\source\\repos\\TaskManager.API\\Models\\Tasks\\TaskRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Tasks\\TaskRequest.cs",
+              "ToolTip": "C:\\Users\\atene\\source\\repos\\TaskManager.API\\Models\\Tasks\\TaskRequest.cs",
+              "RelativeToolTip": "Models\\Tasks\\TaskRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T00:18:12.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StandardResponse.cs",
+              "DocumentMoniker": "C:\\Users\\atene\\source\\repos\\TaskManager.API\\Models\\StandardResponse.cs",
+              "RelativeDocumentMoniker": "Models\\StandardResponse.cs",
+              "ToolTip": "C:\\Users\\atene\\source\\repos\\TaskManager.API\\Models\\StandardResponse.cs",
+              "RelativeToolTip": "Models\\StandardResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T00:11:10.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\atene\\source\\repos\\TaskManager.API\\Controllers\\TaskControllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskControllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\atene\\source\\repos\\TaskManager.API\\Controllers\\TaskControllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskControllers\\TaskController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAqwEoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T00:00:14.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskItems.cs",
+              "DocumentMoniker": "C:\\Users\\atene\\source\\repos\\TaskManager.Domain\\Entities\\TaskManager\\TaskItems.cs",
+              "RelativeDocumentMoniker": "..\\TaskManager.Domain\\Entities\\TaskManager\\TaskItems.cs",
+              "ToolTip": "C:\\Users\\atene\\source\\repos\\TaskManager.Domain\\Entities\\TaskManager\\TaskItems.cs",
+              "RelativeToolTip": "..\\TaskManager.Domain\\Entities\\TaskManager\\TaskItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:50:00.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskManagerContext.cs",
+              "DocumentMoniker": "C:\\Users\\atene\\source\\repos\\TaskManager.Domain\\Context\\TaskManagerContext.cs",
+              "RelativeDocumentMoniker": "..\\TaskManager.Domain\\Context\\TaskManagerContext.cs",
+              "ToolTip": "C:\\Users\\atene\\source\\repos\\TaskManager.Domain\\Context\\TaskManagerContext.cs",
+              "RelativeToolTip": "..\\TaskManager.Domain\\Context\\TaskManagerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:34:51.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atene\\source\\repos\\TaskManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\atene\\source\\repos\\TaskManager.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T23:32:32.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
